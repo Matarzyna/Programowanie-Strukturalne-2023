@@ -1,0 +1,16 @@
+18.04.2023 23:40:00	Uruchomienie programu
+18.04.2023 23:40:02	Rozpoczecie gry, gracz: test
+18.04.2023 23:40:02	Koniec dzialania programu
+18.04.2023 23:40:02	Koniec dzialania programu
+
+pliku gra-test.txt nie udalo sie otworzyc
+pliku nie udalo sie otworzyc: Permission denied
+18.04.2023 23:40:56	Uruchomienie programu
+18.04.2023 23:40:59	Rozpoczecie gry, gracz: test
+18.04.2023 23:40:59	18.04.2023 23:40:59	pliku gra-test.txt nie udalo sie otworzyc
+18.04.2023 23:40:59	Koniec dzialania programu
+
+18.04.2023 23:42:05	Uruchomienie programu
+18.04.2023 23:42:08	Rozpoczecie gry, gracz: test
+18.04.2023 23:42:08	pliku gra-test.txt nie udalo sie otworzyc
+18.04.2023 23:42:08	Koniec dzialania programu
