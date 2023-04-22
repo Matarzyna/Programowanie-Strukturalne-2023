@@ -1,0 +1,4 @@
+﻿  lab4.c
+c:\users\katar\source\repos\wejsciowka4\wejsciowka4\lab4.c(28): warning C4101: "tab": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\katar\source\repos\wejsciowka4\wejsciowka4\lab4.c(18): warning C4716: "wiersz": musi zwracać wartość
+  wejsciowka4.vcxproj -> C:\Users\Katar\source\repos\wejsciowka4\Debug\wejsciowka4.exe
