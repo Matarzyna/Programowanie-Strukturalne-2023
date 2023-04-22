@@ -1,0 +1,4 @@
+1 Ryba 209 29,99
+2 Kotlet 400 10,99
+3 Ziemniaki 20 5,99
+4 Ciasto 430 12,99
